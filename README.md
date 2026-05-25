@@ -75,13 +75,9 @@ To sign in with your IAM Identity Center user, use the sign-in URL that was sent
 • Explore all the available services in AWS platform.
 
 ## Output:
+<img width="1911" height="979" alt="image" src="https://github.com/user-attachments/assets/de7109e2-0e19-43f3-85a3-e8cbe616d5ac" />
+<img width="1912" height="978" alt="image" src="https://github.com/user-attachments/assets/5a5b2474-2ab3-40c2-823f-dff1295a1964" />
 
-<img width="1919" height="993" alt="cctask1" src="https://github.com/user-attachments/assets/f7e9e1ce-c97b-40d5-ac3e-e870ce08e0fd" />
-<img width="1917" height="988" alt="cctask1 2" src="https://github.com/user-attachments/assets/1f3f4089-bb5d-48c8-b63a-84426d921491" />
-<img width="1914" height="990" alt="cctask1 3" src="https://github.com/user-attachments/assets/0afeaed1-e42a-4b2b-ad5e-de67940ce31d" />
-
-<img width="1919" height="983" alt="cctask3 1" src="https://github.com/user-attachments/assets/d3d2d25a-5c7d-4ea4-ba10-80de83c2a084" />
-<img width="1918" height="990" alt="cctask3 2" src="https://github.com/user-attachments/assets/98c1a098-d1e5-4129-80ff-389f0d9e354f" />
 
 ## Result:
 Thus an account was created in AWS platform and all the services were explored.
